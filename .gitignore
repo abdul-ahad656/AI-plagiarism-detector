@@ -22,11 +22,9 @@ dist/
 *.cache/
 huggingface/
 datasets/
-models/
 *.pth
 *.pt
 *.ckpt
-*.safetensors
 
 # ==================
 # Node/React frontend
