@@ -1,0 +1,1001 @@
+id,qid1,qid2,question1,question2,is_duplicate
+1,1000,2000,Benefits of weight loss?,What are the advantages of weight loss?,0
+2,1001,2001,Why is Java important?,Significance of Java?,1
+3,1002,2002,What is the purpose of vaccination?,Why do we need vaccination?,0
+4,1003,2003,How do I learn vaccination?,Best way to learn vaccination,1
+5,1004,2004,What is the future of smartphones?,How will smartphones evolve?,1
+6,1005,2005,How to use AI?,Steps to use AI,1
+7,1006,2006,Why is electric cars important?,Significance of electric cars?,1
+8,1007,2007,What is the purpose of machine learning?,Why do we need machine learning?,1
+9,1008,2008,Drawbacks of Python?,Disadvantages of Python?,1
+10,1009,2009,How to use AI?,Steps to use AI,1
+11,1010,2010,What is Python?,Explain Python in simple terms,0
+12,1011,2011,How to use Python?,Steps to use Python,1
+13,1012,2012,Difference between vaccination and AI?,How does vaccination differ from AI?,1
+14,1013,2013,What is vaccination?,Explain vaccination in simple terms,1
+15,1014,2014,How to use cloud computing?,Steps to use cloud computing,1
+16,1015,2015,What is the future of smartphones?,How will smartphones evolve?,0
+17,1016,2016,Can I trust vaccination?,Is vaccination reliable?,1
+18,1017,2017,What is AI?,Explain AI in simple terms,1
+19,1018,2018,How do I learn smartphones?,Best way to learn smartphones,0
+20,1019,2019,Difference between blockchain and Java?,How does blockchain differ from Java?,1
+21,1020,2020,Drawbacks of smartphones?,Disadvantages of smartphones?,0
+22,1021,2021,How do I learn weight loss?,Best way to learn weight loss,1
+23,1022,2022,Benefits of Java?,What are the advantages of Java?,1
+24,1023,2023,How to use smartphones?,Steps to use smartphones,1
+25,1024,2024,Difference between AI and machine learning?,How does AI differ from machine learning?,1
+26,1025,2025,What is the future of Java?,How will Java evolve?,0
+27,1026,2026,Drawbacks of smartphones?,Disadvantages of smartphones?,0
+28,1027,2027,Can I trust weight loss?,Is weight loss reliable?,1
+29,1028,2028,Can I trust cloud computing?,Is cloud computing reliable?,1
+30,1029,2029,What is the future of smartphones?,How will smartphones evolve?,1
+31,1030,2030,How to use Python?,Steps to use Python,1
+32,1031,2031,Drawbacks of machine learning?,Disadvantages of machine learning?,1
+33,1032,2032,Drawbacks of electric cars?,Disadvantages of electric cars?,1
+34,1033,2033,How do I learn smartphones?,Best way to learn smartphones,1
+35,1034,2034,Drawbacks of weight loss?,Disadvantages of weight loss?,1
+36,1035,2035,Why is machine learning important?,Significance of machine learning?,1
+37,1036,2036,Drawbacks of Java?,Disadvantages of Java?,0
+38,1037,2037,Difference between Python and machine learning?,How does Python differ from machine learning?,1
+39,1038,2038,What is blockchain?,Explain blockchain in simple terms,1
+40,1039,2039,What is AI?,Explain AI in simple terms,0
+41,1040,2040,Difference between weight loss and blockchain?,How does weight loss differ from blockchain?,1
+42,1041,2041,How to use machine learning?,Steps to use machine learning,1
+43,1042,2042,What is the future of electric cars?,How will electric cars evolve?,1
+44,1043,2043,What is the future of weight loss?,How will weight loss evolve?,1
+45,1044,2044,Can I trust Python?,Is Python reliable?,1
+46,1045,2045,Drawbacks of weight loss?,Disadvantages of weight loss?,0
+47,1046,2046,Drawbacks of smartphones?,Disadvantages of smartphones?,1
+48,1047,2047,What is the future of machine learning?,How will machine learning evolve?,0
+49,1048,2048,What is the future of blockchain?,How will blockchain evolve?,0
+50,1049,2049,Drawbacks of Python?,Disadvantages of Python?,1
+51,1050,2050,Why is vaccination important?,Significance of vaccination?,0
+52,1051,2051,What is the purpose of blockchain?,Why do we need blockchain?,1
+53,1052,2052,Drawbacks of electric cars?,Disadvantages of electric cars?,0
+54,1053,2053,What is blockchain?,Explain blockchain in simple terms,1
+55,1054,2054,Drawbacks of machine learning?,Disadvantages of machine learning?,1
+56,1055,2055,Benefits of cloud computing?,What are the advantages of cloud computing?,0
+57,1056,2056,How do I learn electric cars?,Best way to learn electric cars,0
+58,1057,2057,What is the future of electric cars?,How will electric cars evolve?,0
+59,1058,2058,What is the future of smartphones?,How will smartphones evolve?,1
+60,1059,2059,How do I learn AI?,Best way to learn AI,1
+61,1060,2060,Why is weight loss important?,Significance of weight loss?,1
+62,1061,2061,What is the future of cloud computing?,How will cloud computing evolve?,0
+63,1062,2062,How do I learn cloud computing?,Best way to learn cloud computing,1
+64,1063,2063,Benefits of blockchain?,What are the advantages of blockchain?,1
+65,1064,2064,What is the future of weight loss?,How will weight loss evolve?,1
+66,1065,2065,What is the purpose of smartphones?,Why do we need smartphones?,1
+67,1066,2066,Drawbacks of weight loss?,Disadvantages of weight loss?,1
+68,1067,2067,Benefits of vaccination?,What are the advantages of vaccination?,1
+69,1068,2068,Difference between cloud computing and AI?,How does cloud computing differ from AI?,1
+70,1069,2069,What is the purpose of cloud computing?,Why do we need cloud computing?,1
+71,1070,2070,How to use AI?,Steps to use AI,1
+72,1071,2071,Benefits of smartphones?,What are the advantages of smartphones?,1
+73,1072,2072,What is the future of machine learning?,How will machine learning evolve?,0
+74,1073,2073,Can I trust electric cars?,Is electric cars reliable?,1
+75,1074,2074,Can I trust blockchain?,Is blockchain reliable?,1
+76,1075,2075,How do I learn electric cars?,Best way to learn electric cars,1
+77,1076,2076,How do I learn weight loss?,Best way to learn weight loss,1
+78,1077,2077,What is the purpose of machine learning?,Why do we need machine learning?,0
+79,1078,2078,How to use electric cars?,Steps to use electric cars,0
+80,1079,2079,Difference between blockchain and smartphones?,How does blockchain differ from smartphones?,0
+81,1080,2080,Drawbacks of Python?,Disadvantages of Python?,0
+82,1081,2081,Drawbacks of vaccination?,Disadvantages of vaccination?,1
+83,1082,2082,Difference between AI and smartphones?,How does AI differ from smartphones?,1
+84,1083,2083,How do I learn electric cars?,Best way to learn electric cars,1
+85,1084,2084,Benefits of electric cars?,What are the advantages of electric cars?,1
+86,1085,2085,What is the future of Java?,How will Java evolve?,1
+87,1086,2086,How to use AI?,Steps to use AI,0
+88,1087,2087,What is the future of smartphones?,How will smartphones evolve?,1
+89,1088,2088,Can I trust blockchain?,Is blockchain reliable?,0
+90,1089,2089,How to use AI?,Steps to use AI,1
+91,1090,2090,Drawbacks of vaccination?,Disadvantages of vaccination?,1
+92,1091,2091,How to use blockchain?,Steps to use blockchain,0
+93,1092,2092,How to use electric cars?,Steps to use electric cars,0
+94,1093,2093,What is the future of Java?,How will Java evolve?,1
+95,1094,2094,What is machine learning?,Explain machine learning in simple terms,0
+96,1095,2095,Why is cloud computing important?,Significance of cloud computing?,0
+97,1096,2096,Drawbacks of AI?,Disadvantages of AI?,1
+98,1097,2097,What is the future of blockchain?,How will blockchain evolve?,0
+99,1098,2098,Difference between vaccination and smartphones?,How does vaccination differ from smartphones?,1
+100,1099,2099,Why is machine learning important?,Significance of machine learning?,1
+101,1100,2100,How do I learn vaccination?,Best way to learn vaccination,0
+102,1101,2101,Why is Python important?,Significance of Python?,0
+103,1102,2102,What is Python?,Explain Python in simple terms,1
+104,1103,2103,What is the future of Python?,How will Python evolve?,1
+105,1104,2104,Benefits of smartphones?,What are the advantages of smartphones?,1
+106,1105,2105,What is the future of Python?,How will Python evolve?,1
+107,1106,2106,How to use AI?,Steps to use AI,0
+108,1107,2107,Benefits of Java?,What are the advantages of Java?,1
+109,1108,2108,Benefits of AI?,What are the advantages of AI?,0
+110,1109,2109,How do I learn smartphones?,Best way to learn smartphones,1
+111,1110,2110,How do I learn smartphones?,Best way to learn smartphones,0
+112,1111,2111,Drawbacks of Java?,Disadvantages of Java?,1
+113,1112,2112,What is the purpose of Java?,Why do we need Java?,0
+114,1113,2113,Benefits of Python?,What are the advantages of Python?,1
+115,1114,2114,How do I learn Java?,Best way to learn Java,1
+116,1115,2115,How to use blockchain?,Steps to use blockchain,1
+117,1116,2116,Difference between Python and smartphones?,How does Python differ from smartphones?,0
+118,1117,2117,What is the future of vaccination?,How will vaccination evolve?,0
+119,1118,2118,How to use AI?,Steps to use AI,1
+120,1119,2119,Drawbacks of machine learning?,Disadvantages of machine learning?,1
+121,1120,2120,Drawbacks of cloud computing?,Disadvantages of cloud computing?,1
+122,1121,2121,How do I learn electric cars?,Best way to learn electric cars,0
+123,1122,2122,How do I learn weight loss?,Best way to learn weight loss,0
+124,1123,2123,How to use vaccination?,Steps to use vaccination,1
+125,1124,2124,Benefits of blockchain?,What are the advantages of blockchain?,1
+126,1125,2125,Benefits of vaccination?,What are the advantages of vaccination?,0
+127,1126,2126,What is the purpose of Python?,Why do we need Python?,1
+128,1127,2127,What is machine learning?,Explain machine learning in simple terms,1
+129,1128,2128,Can I trust vaccination?,Is vaccination reliable?,1
+130,1129,2129,Difference between weight loss and AI?,How does weight loss differ from AI?,1
+131,1130,2130,What is AI?,Explain AI in simple terms,1
+132,1131,2131,Difference between cloud computing and Java?,How does cloud computing differ from Java?,1
+133,1132,2132,Difference between Java and AI?,How does Java differ from AI?,0
+134,1133,2133,Why is machine learning important?,Significance of machine learning?,1
+135,1134,2134,Drawbacks of Java?,Disadvantages of Java?,1
+136,1135,2135,What is the future of Python?,How will Python evolve?,1
+137,1136,2136,Can I trust Python?,Is Python reliable?,0
+138,1137,2137,Can I trust Java?,Is Java reliable?,1
+139,1138,2138,How to use AI?,Steps to use AI,0
+140,1139,2139,Can I trust cloud computing?,Is cloud computing reliable?,1
+141,1140,2140,What is the future of vaccination?,How will vaccination evolve?,1
+142,1141,2141,What is the purpose of electric cars?,Why do we need electric cars?,1
+143,1142,2142,What is AI?,Explain AI in simple terms,1
+144,1143,2143,Benefits of cloud computing?,What are the advantages of cloud computing?,1
+145,1144,2144,What is the future of electric cars?,How will electric cars evolve?,1
+146,1145,2145,What is the purpose of weight loss?,Why do we need weight loss?,1
+147,1146,2146,Why is Java important?,Significance of Java?,1
+148,1147,2147,What is the purpose of vaccination?,Why do we need vaccination?,1
+149,1148,2148,What is Java?,Explain Java in simple terms,1
+150,1149,2149,Benefits of cloud computing?,What are the advantages of cloud computing?,1
+151,1150,2150,Can I trust weight loss?,Is weight loss reliable?,1
+152,1151,2151,Can I trust smartphones?,Is smartphones reliable?,0
+153,1152,2152,How to use blockchain?,Steps to use blockchain,1
+154,1153,2153,Difference between smartphones and AI?,How does smartphones differ from AI?,1
+155,1154,2154,What is the purpose of weight loss?,Why do we need weight loss?,0
+156,1155,2155,What is the future of electric cars?,How will electric cars evolve?,1
+157,1156,2156,Drawbacks of electric cars?,Disadvantages of electric cars?,1
+158,1157,2157,Can I trust AI?,Is AI reliable?,1
+159,1158,2158,What is the future of electric cars?,How will electric cars evolve?,1
+160,1159,2159,Drawbacks of AI?,Disadvantages of AI?,1
+161,1160,2160,How do I learn cloud computing?,Best way to learn cloud computing,1
+162,1161,2161,How do I learn Python?,Best way to learn Python,1
+163,1162,2162,How to use blockchain?,Steps to use blockchain,0
+164,1163,2163,What is Python?,Explain Python in simple terms,0
+165,1164,2164,What is the future of AI?,How will AI evolve?,1
+166,1165,2165,What is the purpose of smartphones?,Why do we need smartphones?,1
+167,1166,2166,How to use Python?,Steps to use Python,0
+168,1167,2167,Drawbacks of machine learning?,Disadvantages of machine learning?,1
+169,1168,2168,Difference between machine learning and Python?,How does machine learning differ from Python?,1
+170,1169,2169,Drawbacks of Python?,Disadvantages of Python?,1
+171,1170,2170,How do I learn machine learning?,Best way to learn machine learning,1
+172,1171,2171,Why is blockchain important?,Significance of blockchain?,0
+173,1172,2172,Can I trust blockchain?,Is blockchain reliable?,0
+174,1173,2173,What is the purpose of smartphones?,Why do we need smartphones?,0
+175,1174,2174,What is the purpose of vaccination?,Why do we need vaccination?,0
+176,1175,2175,How to use Python?,Steps to use Python,0
+177,1176,2176,Benefits of smartphones?,What are the advantages of smartphones?,1
+178,1177,2177,What is the purpose of electric cars?,Why do we need electric cars?,1
+179,1178,2178,Difference between weight loss and Python?,How does weight loss differ from Python?,1
+180,1179,2179,What is the purpose of vaccination?,Why do we need vaccination?,1
+181,1180,2180,Why is Java important?,Significance of Java?,0
+182,1181,2181,Benefits of AI?,What are the advantages of AI?,1
+183,1182,2182,What is the future of Java?,How will Java evolve?,1
+184,1183,2183,How do I learn machine learning?,Best way to learn machine learning,0
+185,1184,2184,What is the purpose of smartphones?,Why do we need smartphones?,0
+186,1185,2185,What is the purpose of cloud computing?,Why do we need cloud computing?,0
+187,1186,2186,What is blockchain?,Explain blockchain in simple terms,1
+188,1187,2187,Drawbacks of Python?,Disadvantages of Python?,0
+189,1188,2188,Benefits of cloud computing?,What are the advantages of cloud computing?,0
+190,1189,2189,What is the future of machine learning?,How will machine learning evolve?,1
+191,1190,2190,What is machine learning?,Explain machine learning in simple terms,0
+192,1191,2191,Why is Java important?,Significance of Java?,1
+193,1192,2192,What is the future of cloud computing?,How will cloud computing evolve?,1
+194,1193,2193,Drawbacks of Python?,Disadvantages of Python?,0
+195,1194,2194,Benefits of AI?,What are the advantages of AI?,1
+196,1195,2195,Difference between machine learning and blockchain?,How does machine learning differ from blockchain?,0
+197,1196,2196,What is the future of smartphones?,How will smartphones evolve?,1
+198,1197,2197,How to use smartphones?,Steps to use smartphones,1
+199,1198,2198,What is electric cars?,Explain electric cars in simple terms,0
+200,1199,2199,What is vaccination?,Explain vaccination in simple terms,1
+201,1200,2200,What is the purpose of Python?,Why do we need Python?,0
+202,1201,2201,How to use cloud computing?,Steps to use cloud computing,1
+203,1202,2202,What is weight loss?,Explain weight loss in simple terms,0
+204,1203,2203,Drawbacks of cloud computing?,Disadvantages of cloud computing?,0
+205,1204,2204,How do I learn cloud computing?,Best way to learn cloud computing,0
+206,1205,2205,Benefits of electric cars?,What are the advantages of electric cars?,1
+207,1206,2206,Difference between vaccination and Python?,How does vaccination differ from Python?,1
+208,1207,2207,How do I learn cloud computing?,Best way to learn cloud computing,1
+209,1208,2208,Drawbacks of vaccination?,Disadvantages of vaccination?,1
+210,1209,2209,What is the future of machine learning?,How will machine learning evolve?,1
+211,1210,2210,What is the purpose of smartphones?,Why do we need smartphones?,0
+212,1211,2211,How to use machine learning?,Steps to use machine learning,0
+213,1212,2212,How do I learn Java?,Best way to learn Java,0
+214,1213,2213,What is the purpose of electric cars?,Why do we need electric cars?,1
+215,1214,2214,What is the purpose of machine learning?,Why do we need machine learning?,0
+216,1215,2215,How do I learn electric cars?,Best way to learn electric cars,0
+217,1216,2216,What is the future of vaccination?,How will vaccination evolve?,1
+218,1217,2217,How do I learn Python?,Best way to learn Python,0
+219,1218,2218,Why is AI important?,Significance of AI?,0
+220,1219,2219,How do I learn electric cars?,Best way to learn electric cars,0
+221,1220,2220,Drawbacks of Python?,Disadvantages of Python?,1
+222,1221,2221,Why is cloud computing important?,Significance of cloud computing?,1
+223,1222,2222,What is the purpose of Python?,Why do we need Python?,0
+224,1223,2223,What is the future of vaccination?,How will vaccination evolve?,0
+225,1224,2224,Can I trust AI?,Is AI reliable?,1
+226,1225,2225,How do I learn smartphones?,Best way to learn smartphones,1
+227,1226,2226,What is the purpose of blockchain?,Why do we need blockchain?,1
+228,1227,2227,Can I trust AI?,Is AI reliable?,1
+229,1228,2228,What is vaccination?,Explain vaccination in simple terms,0
+230,1229,2229,Can I trust smartphones?,Is smartphones reliable?,1
+231,1230,2230,What is Java?,Explain Java in simple terms,0
+232,1231,2231,What is the future of Java?,How will Java evolve?,1
+233,1232,2232,How to use electric cars?,Steps to use electric cars,0
+234,1233,2233,How to use cloud computing?,Steps to use cloud computing,1
+235,1234,2234,How to use smartphones?,Steps to use smartphones,0
+236,1235,2235,How do I learn AI?,Best way to learn AI,1
+237,1236,2236,What is vaccination?,Explain vaccination in simple terms,0
+238,1237,2237,Why is Java important?,Significance of Java?,0
+239,1238,2238,What is the purpose of Python?,Why do we need Python?,0
+240,1239,2239,Drawbacks of weight loss?,Disadvantages of weight loss?,1
+241,1240,2240,Why is blockchain important?,Significance of blockchain?,1
+242,1241,2241,How do I learn machine learning?,Best way to learn machine learning,0
+243,1242,2242,Why is Java important?,Significance of Java?,1
+244,1243,2243,Can I trust Java?,Is Java reliable?,1
+245,1244,2244,Why is smartphones important?,Significance of smartphones?,0
+246,1245,2245,What is Python?,Explain Python in simple terms,0
+247,1246,2246,Drawbacks of Java?,Disadvantages of Java?,0
+248,1247,2247,How do I learn weight loss?,Best way to learn weight loss,0
+249,1248,2248,How do I learn Python?,Best way to learn Python,1
+250,1249,2249,Difference between blockchain and Python?,How does blockchain differ from Python?,0
+251,1250,2250,What is the future of machine learning?,How will machine learning evolve?,1
+252,1251,2251,What is the purpose of machine learning?,Why do we need machine learning?,1
+253,1252,2252,What is the purpose of vaccination?,Why do we need vaccination?,0
+254,1253,2253,How do I learn blockchain?,Best way to learn blockchain,1
+255,1254,2254,What is the future of vaccination?,How will vaccination evolve?,0
+256,1255,2255,What is the future of cloud computing?,How will cloud computing evolve?,0
+257,1256,2256,What is the future of weight loss?,How will weight loss evolve?,1
+258,1257,2257,What is the future of AI?,How will AI evolve?,1
+259,1258,2258,Can I trust Java?,Is Java reliable?,1
+260,1259,2259,Difference between cloud computing and Java?,How does cloud computing differ from Java?,1
+261,1260,2260,Difference between blockchain and Java?,How does blockchain differ from Java?,1
+262,1261,2261,Can I trust Python?,Is Python reliable?,0
+263,1262,2262,Benefits of cloud computing?,What are the advantages of cloud computing?,1
+264,1263,2263,How to use smartphones?,Steps to use smartphones,1
+265,1264,2264,What is Python?,Explain Python in simple terms,0
+266,1265,2265,How to use AI?,Steps to use AI,0
+267,1266,2266,What is the future of Python?,How will Python evolve?,1
+268,1267,2267,How do I learn cloud computing?,Best way to learn cloud computing,1
+269,1268,2268,What is the purpose of electric cars?,Why do we need electric cars?,1
+270,1269,2269,Why is weight loss important?,Significance of weight loss?,0
+271,1270,2270,Why is vaccination important?,Significance of vaccination?,1
+272,1271,2271,What is the purpose of machine learning?,Why do we need machine learning?,1
+273,1272,2272,Can I trust cloud computing?,Is cloud computing reliable?,0
+274,1273,2273,Difference between cloud computing and Python?,How does cloud computing differ from Python?,1
+275,1274,2274,What is Java?,Explain Java in simple terms,1
+276,1275,2275,Can I trust weight loss?,Is weight loss reliable?,1
+277,1276,2276,How to use smartphones?,Steps to use smartphones,1
+278,1277,2277,What is weight loss?,Explain weight loss in simple terms,1
+279,1278,2278,What is the future of weight loss?,How will weight loss evolve?,1
+280,1279,2279,What is weight loss?,Explain weight loss in simple terms,1
+281,1280,2280,How do I learn machine learning?,Best way to learn machine learning,1
+282,1281,2281,Drawbacks of Java?,Disadvantages of Java?,1
+283,1282,2282,How to use machine learning?,Steps to use machine learning,0
+284,1283,2283,What is the future of electric cars?,How will electric cars evolve?,1
+285,1284,2284,Drawbacks of electric cars?,Disadvantages of electric cars?,1
+286,1285,2285,What is the future of AI?,How will AI evolve?,1
+287,1286,2286,What is machine learning?,Explain machine learning in simple terms,0
+288,1287,2287,Benefits of Python?,What are the advantages of Python?,1
+289,1288,2288,How do I learn electric cars?,Best way to learn electric cars,1
+290,1289,2289,Benefits of AI?,What are the advantages of AI?,0
+291,1290,2290,What is blockchain?,Explain blockchain in simple terms,1
+292,1291,2291,Why is weight loss important?,Significance of weight loss?,1
+293,1292,2292,How to use Java?,Steps to use Java,1
+294,1293,2293,What is the purpose of weight loss?,Why do we need weight loss?,0
+295,1294,2294,What is the purpose of smartphones?,Why do we need smartphones?,0
+296,1295,2295,Benefits of blockchain?,What are the advantages of blockchain?,1
+297,1296,2296,How to use blockchain?,Steps to use blockchain,1
+298,1297,2297,Why is electric cars important?,Significance of electric cars?,0
+299,1298,2298,What is the purpose of vaccination?,Why do we need vaccination?,1
+300,1299,2299,What is the future of vaccination?,How will vaccination evolve?,1
+301,1300,2300,Drawbacks of AI?,Disadvantages of AI?,0
+302,1301,2301,Drawbacks of vaccination?,Disadvantages of vaccination?,1
+303,1302,2302,What is the purpose of Java?,Why do we need Java?,1
+304,1303,2303,What is the future of smartphones?,How will smartphones evolve?,1
+305,1304,2304,What is the purpose of smartphones?,Why do we need smartphones?,0
+306,1305,2305,What is the future of Java?,How will Java evolve?,1
+307,1306,2306,Benefits of weight loss?,What are the advantages of weight loss?,1
+308,1307,2307,How do I learn machine learning?,Best way to learn machine learning,0
+309,1308,2308,Drawbacks of Java?,Disadvantages of Java?,0
+310,1309,2309,How to use weight loss?,Steps to use weight loss,1
+311,1310,2310,Benefits of smartphones?,What are the advantages of smartphones?,0
+312,1311,2311,What is the purpose of vaccination?,Why do we need vaccination?,1
+313,1312,2312,Why is Java important?,Significance of Java?,1
+314,1313,2313,Why is smartphones important?,Significance of smartphones?,1
+315,1314,2314,Why is vaccination important?,Significance of vaccination?,1
+316,1315,2315,Can I trust machine learning?,Is machine learning reliable?,1
+317,1316,2316,Why is machine learning important?,Significance of machine learning?,1
+318,1317,2317,Difference between blockchain and cloud computing?,How does blockchain differ from cloud computing?,0
+319,1318,2318,How do I learn Python?,Best way to learn Python,1
+320,1319,2319,What is the purpose of weight loss?,Why do we need weight loss?,0
+321,1320,2320,How to use Java?,Steps to use Java,0
+322,1321,2321,Benefits of cloud computing?,What are the advantages of cloud computing?,1
+323,1322,2322,Why is vaccination important?,Significance of vaccination?,0
+324,1323,2323,Difference between Python and weight loss?,How does Python differ from weight loss?,0
+325,1324,2324,Why is Python important?,Significance of Python?,1
+326,1325,2325,How to use electric cars?,Steps to use electric cars,0
+327,1326,2326,Drawbacks of smartphones?,Disadvantages of smartphones?,1
+328,1327,2327,What is smartphones?,Explain smartphones in simple terms,1
+329,1328,2328,Difference between Python and cloud computing?,How does Python differ from cloud computing?,1
+330,1329,2329,Drawbacks of electric cars?,Disadvantages of electric cars?,0
+331,1330,2330,How do I learn weight loss?,Best way to learn weight loss,1
+332,1331,2331,Benefits of blockchain?,What are the advantages of blockchain?,0
+333,1332,2332,Benefits of AI?,What are the advantages of AI?,1
+334,1333,2333,How to use smartphones?,Steps to use smartphones,1
+335,1334,2334,What is the future of cloud computing?,How will cloud computing evolve?,1
+336,1335,2335,Benefits of cloud computing?,What are the advantages of cloud computing?,1
+337,1336,2336,Why is smartphones important?,Significance of smartphones?,1
+338,1337,2337,Can I trust weight loss?,Is weight loss reliable?,1
+339,1338,2338,What is the purpose of Java?,Why do we need Java?,1
+340,1339,2339,What is the future of Java?,How will Java evolve?,1
+341,1340,2340,Can I trust smartphones?,Is smartphones reliable?,1
+342,1341,2341,What is the future of weight loss?,How will weight loss evolve?,1
+343,1342,2342,Difference between machine learning and smartphones?,How does machine learning differ from smartphones?,0
+344,1343,2343,Drawbacks of weight loss?,Disadvantages of weight loss?,0
+345,1344,2344,Drawbacks of Java?,Disadvantages of Java?,0
+346,1345,2345,What is electric cars?,Explain electric cars in simple terms,1
+347,1346,2346,Benefits of smartphones?,What are the advantages of smartphones?,0
+348,1347,2347,Benefits of vaccination?,What are the advantages of vaccination?,1
+349,1348,2348,Why is vaccination important?,Significance of vaccination?,1
+350,1349,2349,Drawbacks of Python?,Disadvantages of Python?,1
+351,1350,2350,What is the future of Python?,How will Python evolve?,0
+352,1351,2351,What is the future of vaccination?,How will vaccination evolve?,0
+353,1352,2352,Drawbacks of Java?,Disadvantages of Java?,0
+354,1353,2353,Drawbacks of blockchain?,Disadvantages of blockchain?,1
+355,1354,2354,How to use cloud computing?,Steps to use cloud computing,1
+356,1355,2355,What is vaccination?,Explain vaccination in simple terms,1
+357,1356,2356,Difference between smartphones and machine learning?,How does smartphones differ from machine learning?,0
+358,1357,2357,What is the purpose of weight loss?,Why do we need weight loss?,1
+359,1358,2358,Why is electric cars important?,Significance of electric cars?,1
+360,1359,2359,Difference between Python and AI?,How does Python differ from AI?,1
+361,1360,2360,Drawbacks of electric cars?,Disadvantages of electric cars?,0
+362,1361,2361,What is Python?,Explain Python in simple terms,1
+363,1362,2362,How do I learn electric cars?,Best way to learn electric cars,0
+364,1363,2363,Benefits of smartphones?,What are the advantages of smartphones?,1
+365,1364,2364,Can I trust Java?,Is Java reliable?,1
+366,1365,2365,How to use weight loss?,Steps to use weight loss,0
+367,1366,2366,Why is cloud computing important?,Significance of cloud computing?,0
+368,1367,2367,What is Java?,Explain Java in simple terms,1
+369,1368,2368,Drawbacks of blockchain?,Disadvantages of blockchain?,1
+370,1369,2369,How to use blockchain?,Steps to use blockchain,0
+371,1370,2370,Benefits of vaccination?,What are the advantages of vaccination?,1
+372,1371,2371,What is the purpose of electric cars?,Why do we need electric cars?,0
+373,1372,2372,How to use Python?,Steps to use Python,1
+374,1373,2373,Drawbacks of electric cars?,Disadvantages of electric cars?,1
+375,1374,2374,Can I trust blockchain?,Is blockchain reliable?,0
+376,1375,2375,Can I trust blockchain?,Is blockchain reliable?,1
+377,1376,2376,How do I learn Python?,Best way to learn Python,1
+378,1377,2377,Benefits of AI?,What are the advantages of AI?,1
+379,1378,2378,Why is smartphones important?,Significance of smartphones?,1
+380,1379,2379,How do I learn machine learning?,Best way to learn machine learning,1
+381,1380,2380,Can I trust AI?,Is AI reliable?,1
+382,1381,2381,What is the purpose of smartphones?,Why do we need smartphones?,0
+383,1382,2382,Why is vaccination important?,Significance of vaccination?,0
+384,1383,2383,Why is vaccination important?,Significance of vaccination?,0
+385,1384,2384,What is weight loss?,Explain weight loss in simple terms,0
+386,1385,2385,What is the purpose of Python?,Why do we need Python?,1
+387,1386,2386,What is smartphones?,Explain smartphones in simple terms,0
+388,1387,2387,How do I learn AI?,Best way to learn AI,0
+389,1388,2388,What is the purpose of Java?,Why do we need Java?,1
+390,1389,2389,What is vaccination?,Explain vaccination in simple terms,1
+391,1390,2390,What is the future of vaccination?,How will vaccination evolve?,1
+392,1391,2391,What is vaccination?,Explain vaccination in simple terms,0
+393,1392,2392,How to use AI?,Steps to use AI,0
+394,1393,2393,Drawbacks of electric cars?,Disadvantages of electric cars?,1
+395,1394,2394,What is the purpose of electric cars?,Why do we need electric cars?,0
+396,1395,2395,Can I trust blockchain?,Is blockchain reliable?,0
+397,1396,2396,What is the purpose of cloud computing?,Why do we need cloud computing?,0
+398,1397,2397,How to use blockchain?,Steps to use blockchain,0
+399,1398,2398,Benefits of Java?,What are the advantages of Java?,0
+400,1399,2399,How to use electric cars?,Steps to use electric cars,1
+401,1400,2400,What is the future of vaccination?,How will vaccination evolve?,1
+402,1401,2401,What is the future of Python?,How will Python evolve?,1
+403,1402,2402,Drawbacks of smartphones?,Disadvantages of smartphones?,0
+404,1403,2403,What is the purpose of weight loss?,Why do we need weight loss?,1
+405,1404,2404,What is the future of blockchain?,How will blockchain evolve?,0
+406,1405,2405,How do I learn machine learning?,Best way to learn machine learning,0
+407,1406,2406,Benefits of machine learning?,What are the advantages of machine learning?,1
+408,1407,2407,Drawbacks of smartphones?,Disadvantages of smartphones?,1
+409,1408,2408,What is the purpose of AI?,Why do we need AI?,1
+410,1409,2409,Can I trust blockchain?,Is blockchain reliable?,1
+411,1410,2410,Difference between cloud computing and vaccination?,How does cloud computing differ from vaccination?,1
+412,1411,2411,How do I learn machine learning?,Best way to learn machine learning,1
+413,1412,2412,How do I learn Java?,Best way to learn Java,1
+414,1413,2413,Difference between AI and Python?,How does AI differ from Python?,0
+415,1414,2414,Why is vaccination important?,Significance of vaccination?,1
+416,1415,2415,Difference between Java and electric cars?,How does Java differ from electric cars?,1
+417,1416,2416,What is the purpose of Python?,Why do we need Python?,1
+418,1417,2417,What is AI?,Explain AI in simple terms,1
+419,1418,2418,What is the purpose of Python?,Why do we need Python?,1
+420,1419,2419,Difference between Python and machine learning?,How does Python differ from machine learning?,0
+421,1420,2420,Drawbacks of cloud computing?,Disadvantages of cloud computing?,0
+422,1421,2421,What is Python?,Explain Python in simple terms,1
+423,1422,2422,Benefits of electric cars?,What are the advantages of electric cars?,1
+424,1423,2423,Benefits of weight loss?,What are the advantages of weight loss?,1
+425,1424,2424,What is the purpose of blockchain?,Why do we need blockchain?,0
+426,1425,2425,Difference between cloud computing and electric cars?,How does cloud computing differ from electric cars?,1
+427,1426,2426,Benefits of electric cars?,What are the advantages of electric cars?,1
+428,1427,2427,What is the future of machine learning?,How will machine learning evolve?,1
+429,1428,2428,What is the future of Java?,How will Java evolve?,1
+430,1429,2429,How to use weight loss?,Steps to use weight loss,1
+431,1430,2430,How do I learn machine learning?,Best way to learn machine learning,0
+432,1431,2431,What is the future of vaccination?,How will vaccination evolve?,0
+433,1432,2432,Difference between cloud computing and AI?,How does cloud computing differ from AI?,1
+434,1433,2433,What is smartphones?,Explain smartphones in simple terms,0
+435,1434,2434,Drawbacks of Python?,Disadvantages of Python?,1
+436,1435,2435,How to use machine learning?,Steps to use machine learning,1
+437,1436,2436,Difference between machine learning and vaccination?,How does machine learning differ from vaccination?,1
+438,1437,2437,Benefits of blockchain?,What are the advantages of blockchain?,1
+439,1438,2438,What is the future of Python?,How will Python evolve?,0
+440,1439,2439,Can I trust AI?,Is AI reliable?,1
+441,1440,2440,How to use blockchain?,Steps to use blockchain,0
+442,1441,2441,Difference between electric cars and vaccination?,How does electric cars differ from vaccination?,0
+443,1442,2442,Benefits of AI?,What are the advantages of AI?,1
+444,1443,2443,Drawbacks of Java?,Disadvantages of Java?,0
+445,1444,2444,Why is blockchain important?,Significance of blockchain?,1
+446,1445,2445,Drawbacks of electric cars?,Disadvantages of electric cars?,0
+447,1446,2446,Benefits of vaccination?,What are the advantages of vaccination?,1
+448,1447,2447,How to use smartphones?,Steps to use smartphones,0
+449,1448,2448,Difference between vaccination and blockchain?,How does vaccination differ from blockchain?,0
+450,1449,2449,Difference between Python and AI?,How does Python differ from AI?,0
+451,1450,2450,Drawbacks of Python?,Disadvantages of Python?,0
+452,1451,2451,What is the purpose of smartphones?,Why do we need smartphones?,1
+453,1452,2452,Drawbacks of electric cars?,Disadvantages of electric cars?,1
+454,1453,2453,What is the purpose of weight loss?,Why do we need weight loss?,0
+455,1454,2454,Difference between vaccination and cloud computing?,How does vaccination differ from cloud computing?,1
+456,1455,2455,Benefits of vaccination?,What are the advantages of vaccination?,1
+457,1456,2456,What is the purpose of smartphones?,Why do we need smartphones?,1
+458,1457,2457,How to use Java?,Steps to use Java,0
+459,1458,2458,How do I learn Java?,Best way to learn Java,0
+460,1459,2459,How do I learn Java?,Best way to learn Java,1
+461,1460,2460,Difference between Java and AI?,How does Java differ from AI?,1
+462,1461,2461,How do I learn weight loss?,Best way to learn weight loss,1
+463,1462,2462,Why is cloud computing important?,Significance of cloud computing?,1
+464,1463,2463,What is the purpose of Python?,Why do we need Python?,0
+465,1464,2464,Why is blockchain important?,Significance of blockchain?,0
+466,1465,2465,What is the purpose of vaccination?,Why do we need vaccination?,0
+467,1466,2466,What is the purpose of cloud computing?,Why do we need cloud computing?,1
+468,1467,2467,Can I trust vaccination?,Is vaccination reliable?,1
+469,1468,2468,Why is Python important?,Significance of Python?,1
+470,1469,2469,Can I trust vaccination?,Is vaccination reliable?,1
+471,1470,2470,Drawbacks of blockchain?,Disadvantages of blockchain?,1
+472,1471,2471,How do I learn cloud computing?,Best way to learn cloud computing,0
+473,1472,2472,How to use Python?,Steps to use Python,0
+474,1473,2473,What is cloud computing?,Explain cloud computing in simple terms,1
+475,1474,2474,What is the purpose of weight loss?,Why do we need weight loss?,1
+476,1475,2475,Can I trust cloud computing?,Is cloud computing reliable?,1
+477,1476,2476,Can I trust AI?,Is AI reliable?,1
+478,1477,2477,Benefits of Java?,What are the advantages of Java?,1
+479,1478,2478,What is Java?,Explain Java in simple terms,0
+480,1479,2479,How do I learn blockchain?,Best way to learn blockchain,1
+481,1480,2480,Why is blockchain important?,Significance of blockchain?,1
+482,1481,2481,What is machine learning?,Explain machine learning in simple terms,1
+483,1482,2482,Difference between electric cars and Python?,How does electric cars differ from Python?,1
+484,1483,2483,Why is weight loss important?,Significance of weight loss?,1
+485,1484,2484,What is the future of Python?,How will Python evolve?,0
+486,1485,2485,What is smartphones?,Explain smartphones in simple terms,1
+487,1486,2486,What is the purpose of blockchain?,Why do we need blockchain?,0
+488,1487,2487,How to use machine learning?,Steps to use machine learning,1
+489,1488,2488,Can I trust AI?,Is AI reliable?,0
+490,1489,2489,What is cloud computing?,Explain cloud computing in simple terms,1
+491,1490,2490,Can I trust machine learning?,Is machine learning reliable?,1
+492,1491,2491,Why is vaccination important?,Significance of vaccination?,0
+493,1492,2492,What is the purpose of cloud computing?,Why do we need cloud computing?,0
+494,1493,2493,How to use cloud computing?,Steps to use cloud computing,1
+495,1494,2494,Can I trust vaccination?,Is vaccination reliable?,0
+496,1495,2495,Why is AI important?,Significance of AI?,1
+497,1496,2496,What is the purpose of Java?,Why do we need Java?,0
+498,1497,2497,Drawbacks of electric cars?,Disadvantages of electric cars?,1
+499,1498,2498,Why is Python important?,Significance of Python?,1
+500,1499,2499,What is the future of cloud computing?,How will cloud computing evolve?,1
+501,1500,2500,How do I learn Java?,Best way to learn Java,0
+502,1501,2501,Why is cloud computing important?,Significance of cloud computing?,1
+503,1502,2502,What is AI?,Explain AI in simple terms,1
+504,1503,2503,How do I learn AI?,Best way to learn AI,0
+505,1504,2504,How do I learn electric cars?,Best way to learn electric cars,1
+506,1505,2505,Benefits of AI?,What are the advantages of AI?,1
+507,1506,2506,Benefits of cloud computing?,What are the advantages of cloud computing?,1
+508,1507,2507,Can I trust Java?,Is Java reliable?,1
+509,1508,2508,Can I trust cloud computing?,Is cloud computing reliable?,0
+510,1509,2509,Why is blockchain important?,Significance of blockchain?,0
+511,1510,2510,What is vaccination?,Explain vaccination in simple terms,0
+512,1511,2511,Can I trust cloud computing?,Is cloud computing reliable?,1
+513,1512,2512,How do I learn electric cars?,Best way to learn electric cars,1
+514,1513,2513,What is the future of AI?,How will AI evolve?,1
+515,1514,2514,Can I trust blockchain?,Is blockchain reliable?,0
+516,1515,2515,How to use smartphones?,Steps to use smartphones,1
+517,1516,2516,Drawbacks of weight loss?,Disadvantages of weight loss?,1
+518,1517,2517,How do I learn cloud computing?,Best way to learn cloud computing,1
+519,1518,2518,What is the purpose of AI?,Why do we need AI?,0
+520,1519,2519,What is the future of Python?,How will Python evolve?,1
+521,1520,2520,Can I trust AI?,Is AI reliable?,1
+522,1521,2521,What is the future of machine learning?,How will machine learning evolve?,1
+523,1522,2522,Why is weight loss important?,Significance of weight loss?,1
+524,1523,2523,Difference between Java and cloud computing?,How does Java differ from cloud computing?,0
+525,1524,2524,How to use cloud computing?,Steps to use cloud computing,1
+526,1525,2525,How to use smartphones?,Steps to use smartphones,0
+527,1526,2526,How to use cloud computing?,Steps to use cloud computing,0
+528,1527,2527,How do I learn Python?,Best way to learn Python,0
+529,1528,2528,Benefits of machine learning?,What are the advantages of machine learning?,1
+530,1529,2529,Why is Java important?,Significance of Java?,1
+531,1530,2530,Drawbacks of machine learning?,Disadvantages of machine learning?,1
+532,1531,2531,What is the future of Python?,How will Python evolve?,0
+533,1532,2532,Drawbacks of vaccination?,Disadvantages of vaccination?,1
+534,1533,2533,What is Python?,Explain Python in simple terms,0
+535,1534,2534,What is machine learning?,Explain machine learning in simple terms,1
+536,1535,2535,What is the purpose of blockchain?,Why do we need blockchain?,1
+537,1536,2536,Drawbacks of vaccination?,Disadvantages of vaccination?,1
+538,1537,2537,Drawbacks of machine learning?,Disadvantages of machine learning?,1
+539,1538,2538,How to use vaccination?,Steps to use vaccination,0
+540,1539,2539,What is AI?,Explain AI in simple terms,1
+541,1540,2540,Benefits of machine learning?,What are the advantages of machine learning?,1
+542,1541,2541,What is the purpose of AI?,Why do we need AI?,0
+543,1542,2542,What is the future of electric cars?,How will electric cars evolve?,1
+544,1543,2543,Benefits of vaccination?,What are the advantages of vaccination?,1
+545,1544,2544,Can I trust weight loss?,Is weight loss reliable?,0
+546,1545,2545,Can I trust vaccination?,Is vaccination reliable?,0
+547,1546,2546,What is the purpose of Python?,Why do we need Python?,1
+548,1547,2547,What is the future of AI?,How will AI evolve?,0
+549,1548,2548,What is the purpose of blockchain?,Why do we need blockchain?,1
+550,1549,2549,What is the purpose of electric cars?,Why do we need electric cars?,0
+551,1550,2550,Benefits of machine learning?,What are the advantages of machine learning?,0
+552,1551,2551,Difference between blockchain and weight loss?,How does blockchain differ from weight loss?,0
+553,1552,2552,How do I learn cloud computing?,Best way to learn cloud computing,0
+554,1553,2553,Difference between electric cars and cloud computing?,How does electric cars differ from cloud computing?,1
+555,1554,2554,Drawbacks of smartphones?,Disadvantages of smartphones?,0
+556,1555,2555,What is the future of Python?,How will Python evolve?,1
+557,1556,2556,What is vaccination?,Explain vaccination in simple terms,0
+558,1557,2557,Why is Python important?,Significance of Python?,0
+559,1558,2558,What is the future of blockchain?,How will blockchain evolve?,0
+560,1559,2559,Why is weight loss important?,Significance of weight loss?,1
+561,1560,2560,Why is weight loss important?,Significance of weight loss?,1
+562,1561,2561,How do I learn Python?,Best way to learn Python,0
+563,1562,2562,Benefits of AI?,What are the advantages of AI?,1
+564,1563,2563,Can I trust Java?,Is Java reliable?,0
+565,1564,2564,What is the future of smartphones?,How will smartphones evolve?,1
+566,1565,2565,What is the future of blockchain?,How will blockchain evolve?,0
+567,1566,2566,Why is Python important?,Significance of Python?,0
+568,1567,2567,Benefits of weight loss?,What are the advantages of weight loss?,0
+569,1568,2568,What is smartphones?,Explain smartphones in simple terms,1
+570,1569,2569,Why is electric cars important?,Significance of electric cars?,1
+571,1570,2570,How do I learn weight loss?,Best way to learn weight loss,0
+572,1571,2571,How do I learn blockchain?,Best way to learn blockchain,1
+573,1572,2572,Benefits of weight loss?,What are the advantages of weight loss?,1
+574,1573,2573,How do I learn smartphones?,Best way to learn smartphones,1
+575,1574,2574,What is Java?,Explain Java in simple terms,0
+576,1575,2575,How to use weight loss?,Steps to use weight loss,1
+577,1576,2576,Can I trust machine learning?,Is machine learning reliable?,1
+578,1577,2577,How do I learn weight loss?,Best way to learn weight loss,0
+579,1578,2578,Drawbacks of electric cars?,Disadvantages of electric cars?,0
+580,1579,2579,Can I trust cloud computing?,Is cloud computing reliable?,0
+581,1580,2580,Can I trust electric cars?,Is electric cars reliable?,0
+582,1581,2581,What is the purpose of weight loss?,Why do we need weight loss?,1
+583,1582,2582,Benefits of Python?,What are the advantages of Python?,0
+584,1583,2583,How do I learn AI?,Best way to learn AI,0
+585,1584,2584,How to use smartphones?,Steps to use smartphones,0
+586,1585,2585,What is the future of electric cars?,How will electric cars evolve?,1
+587,1586,2586,What is the future of Python?,How will Python evolve?,1
+588,1587,2587,How to use cloud computing?,Steps to use cloud computing,1
+589,1588,2588,What is the future of Python?,How will Python evolve?,0
+590,1589,2589,How to use Java?,Steps to use Java,1
+591,1590,2590,Can I trust AI?,Is AI reliable?,1
+592,1591,2591,How to use AI?,Steps to use AI,1
+593,1592,2592,What is the purpose of cloud computing?,Why do we need cloud computing?,1
+594,1593,2593,What is the purpose of weight loss?,Why do we need weight loss?,1
+595,1594,2594,Drawbacks of AI?,Disadvantages of AI?,1
+596,1595,2595,How to use smartphones?,Steps to use smartphones,1
+597,1596,2596,What is the future of AI?,How will AI evolve?,0
+598,1597,2597,Why is cloud computing important?,Significance of cloud computing?,1
+599,1598,2598,Difference between weight loss and AI?,How does weight loss differ from AI?,1
+600,1599,2599,How to use weight loss?,Steps to use weight loss,0
+601,1600,2600,Can I trust vaccination?,Is vaccination reliable?,1
+602,1601,2601,Difference between blockchain and electric cars?,How does blockchain differ from electric cars?,1
+603,1602,2602,Benefits of machine learning?,What are the advantages of machine learning?,1
+604,1603,2603,What is the future of AI?,How will AI evolve?,0
+605,1604,2604,How do I learn electric cars?,Best way to learn electric cars,1
+606,1605,2605,Why is electric cars important?,Significance of electric cars?,0
+607,1606,2606,How to use smartphones?,Steps to use smartphones,1
+608,1607,2607,What is the purpose of vaccination?,Why do we need vaccination?,1
+609,1608,2608,What is the purpose of electric cars?,Why do we need electric cars?,1
+610,1609,2609,Drawbacks of weight loss?,Disadvantages of weight loss?,1
+611,1610,2610,Why is blockchain important?,Significance of blockchain?,0
+612,1611,2611,Difference between electric cars and Python?,How does electric cars differ from Python?,0
+613,1612,2612,How to use blockchain?,Steps to use blockchain,0
+614,1613,2613,Difference between electric cars and cloud computing?,How does electric cars differ from cloud computing?,1
+615,1614,2614,Why is blockchain important?,Significance of blockchain?,1
+616,1615,2615,Benefits of cloud computing?,What are the advantages of cloud computing?,1
+617,1616,2616,How do I learn smartphones?,Best way to learn smartphones,1
+618,1617,2617,Drawbacks of machine learning?,Disadvantages of machine learning?,1
+619,1618,2618,Drawbacks of smartphones?,Disadvantages of smartphones?,0
+620,1619,2619,How do I learn Java?,Best way to learn Java,0
+621,1620,2620,Difference between electric cars and AI?,How does electric cars differ from AI?,1
+622,1621,2621,What is the future of vaccination?,How will vaccination evolve?,1
+623,1622,2622,Difference between smartphones and cloud computing?,How does smartphones differ from cloud computing?,0
+624,1623,2623,How to use Python?,Steps to use Python,0
+625,1624,2624,What is the purpose of weight loss?,Why do we need weight loss?,1
+626,1625,2625,How do I learn weight loss?,Best way to learn weight loss,1
+627,1626,2626,What is the future of electric cars?,How will electric cars evolve?,1
+628,1627,2627,How to use electric cars?,Steps to use electric cars,1
+629,1628,2628,Why is blockchain important?,Significance of blockchain?,1
+630,1629,2629,How do I learn weight loss?,Best way to learn weight loss,1
+631,1630,2630,Can I trust weight loss?,Is weight loss reliable?,0
+632,1631,2631,Can I trust AI?,Is AI reliable?,0
+633,1632,2632,Difference between electric cars and smartphones?,How does electric cars differ from smartphones?,1
+634,1633,2633,What is the future of machine learning?,How will machine learning evolve?,1
+635,1634,2634,Why is blockchain important?,Significance of blockchain?,0
+636,1635,2635,What is the future of machine learning?,How will machine learning evolve?,1
+637,1636,2636,Why is cloud computing important?,Significance of cloud computing?,0
+638,1637,2637,What is the purpose of machine learning?,Why do we need machine learning?,0
+639,1638,2638,Drawbacks of machine learning?,Disadvantages of machine learning?,0
+640,1639,2639,Drawbacks of blockchain?,Disadvantages of blockchain?,1
+641,1640,2640,What is the future of AI?,How will AI evolve?,0
+642,1641,2641,Why is vaccination important?,Significance of vaccination?,0
+643,1642,2642,Can I trust AI?,Is AI reliable?,1
+644,1643,2643,How to use Java?,Steps to use Java,1
+645,1644,2644,How do I learn smartphones?,Best way to learn smartphones,0
+646,1645,2645,What is cloud computing?,Explain cloud computing in simple terms,1
+647,1646,2646,What is the future of blockchain?,How will blockchain evolve?,1
+648,1647,2647,Can I trust electric cars?,Is electric cars reliable?,1
+649,1648,2648,How to use Java?,Steps to use Java,1
+650,1649,2649,Why is electric cars important?,Significance of electric cars?,0
+651,1650,2650,What is AI?,Explain AI in simple terms,1
+652,1651,2651,What is the purpose of AI?,Why do we need AI?,0
+653,1652,2652,Difference between blockchain and smartphones?,How does blockchain differ from smartphones?,0
+654,1653,2653,Why is blockchain important?,Significance of blockchain?,1
+655,1654,2654,Difference between electric cars and Python?,How does electric cars differ from Python?,0
+656,1655,2655,Can I trust weight loss?,Is weight loss reliable?,0
+657,1656,2656,What is the future of vaccination?,How will vaccination evolve?,0
+658,1657,2657,How do I learn vaccination?,Best way to learn vaccination,1
+659,1658,2658,What is AI?,Explain AI in simple terms,1
+660,1659,2659,Difference between electric cars and Java?,How does electric cars differ from Java?,1
+661,1660,2660,Drawbacks of vaccination?,Disadvantages of vaccination?,0
+662,1661,2661,Why is vaccination important?,Significance of vaccination?,1
+663,1662,2662,What is Python?,Explain Python in simple terms,1
+664,1663,2663,What is weight loss?,Explain weight loss in simple terms,0
+665,1664,2664,What is the purpose of Java?,Why do we need Java?,1
+666,1665,2665,How do I learn weight loss?,Best way to learn weight loss,1
+667,1666,2666,What is AI?,Explain AI in simple terms,1
+668,1667,2667,What is the purpose of machine learning?,Why do we need machine learning?,0
+669,1668,2668,Drawbacks of machine learning?,Disadvantages of machine learning?,0
+670,1669,2669,Difference between vaccination and cloud computing?,How does vaccination differ from cloud computing?,1
+671,1670,2670,Drawbacks of machine learning?,Disadvantages of machine learning?,0
+672,1671,2671,Drawbacks of AI?,Disadvantages of AI?,1
+673,1672,2672,What is vaccination?,Explain vaccination in simple terms,1
+674,1673,2673,What is the future of smartphones?,How will smartphones evolve?,1
+675,1674,2674,Benefits of smartphones?,What are the advantages of smartphones?,1
+676,1675,2675,What is AI?,Explain AI in simple terms,1
+677,1676,2676,How to use Python?,Steps to use Python,1
+678,1677,2677,Drawbacks of Python?,Disadvantages of Python?,0
+679,1678,2678,What is the purpose of cloud computing?,Why do we need cloud computing?,1
+680,1679,2679,Drawbacks of vaccination?,Disadvantages of vaccination?,0
+681,1680,2680,What is Java?,Explain Java in simple terms,1
+682,1681,2681,Why is electric cars important?,Significance of electric cars?,1
+683,1682,2682,What is the purpose of machine learning?,Why do we need machine learning?,0
+684,1683,2683,What is electric cars?,Explain electric cars in simple terms,1
+685,1684,2684,Difference between weight loss and Python?,How does weight loss differ from Python?,1
+686,1685,2685,Drawbacks of Java?,Disadvantages of Java?,1
+687,1686,2686,Why is Java important?,Significance of Java?,1
+688,1687,2687,Can I trust cloud computing?,Is cloud computing reliable?,1
+689,1688,2688,Benefits of cloud computing?,What are the advantages of cloud computing?,0
+690,1689,2689,Benefits of AI?,What are the advantages of AI?,1
+691,1690,2690,How to use Java?,Steps to use Java,0
+692,1691,2691,What is blockchain?,Explain blockchain in simple terms,1
+693,1692,2692,How to use blockchain?,Steps to use blockchain,0
+694,1693,2693,How do I learn Python?,Best way to learn Python,0
+695,1694,2694,Drawbacks of electric cars?,Disadvantages of electric cars?,1
+696,1695,2695,Why is weight loss important?,Significance of weight loss?,1
+697,1696,2696,Why is blockchain important?,Significance of blockchain?,1
+698,1697,2697,What is weight loss?,Explain weight loss in simple terms,1
+699,1698,2698,Difference between weight loss and AI?,How does weight loss differ from AI?,1
+700,1699,2699,Can I trust Python?,Is Python reliable?,1
+701,1700,2700,Can I trust AI?,Is AI reliable?,1
+702,1701,2701,What is weight loss?,Explain weight loss in simple terms,0
+703,1702,2702,What is the future of cloud computing?,How will cloud computing evolve?,0
+704,1703,2703,What is machine learning?,Explain machine learning in simple terms,0
+705,1704,2704,What is the purpose of machine learning?,Why do we need machine learning?,1
+706,1705,2705,How do I learn electric cars?,Best way to learn electric cars,0
+707,1706,2706,How do I learn machine learning?,Best way to learn machine learning,0
+708,1707,2707,Drawbacks of blockchain?,Disadvantages of blockchain?,1
+709,1708,2708,What is the purpose of Java?,Why do we need Java?,0
+710,1709,2709,What is the purpose of AI?,Why do we need AI?,0
+711,1710,2710,What is the future of Python?,How will Python evolve?,1
+712,1711,2711,Why is smartphones important?,Significance of smartphones?,1
+713,1712,2712,What is the future of vaccination?,How will vaccination evolve?,0
+714,1713,2713,Benefits of smartphones?,What are the advantages of smartphones?,1
+715,1714,2714,Benefits of vaccination?,What are the advantages of vaccination?,1
+716,1715,2715,What is smartphones?,Explain smartphones in simple terms,1
+717,1716,2716,How to use electric cars?,Steps to use electric cars,0
+718,1717,2717,What is the future of blockchain?,How will blockchain evolve?,1
+719,1718,2718,Why is cloud computing important?,Significance of cloud computing?,1
+720,1719,2719,Can I trust weight loss?,Is weight loss reliable?,0
+721,1720,2720,What is the future of Python?,How will Python evolve?,0
+722,1721,2721,Can I trust cloud computing?,Is cloud computing reliable?,0
+723,1722,2722,What is the future of vaccination?,How will vaccination evolve?,1
+724,1723,2723,What is the purpose of AI?,Why do we need AI?,0
+725,1724,2724,What is machine learning?,Explain machine learning in simple terms,1
+726,1725,2725,Can I trust blockchain?,Is blockchain reliable?,1
+727,1726,2726,What is the future of weight loss?,How will weight loss evolve?,1
+728,1727,2727,Benefits of cloud computing?,What are the advantages of cloud computing?,1
+729,1728,2728,Difference between AI and smartphones?,How does AI differ from smartphones?,1
+730,1729,2729,Benefits of vaccination?,What are the advantages of vaccination?,0
+731,1730,2730,How do I learn machine learning?,Best way to learn machine learning,0
+732,1731,2731,How do I learn machine learning?,Best way to learn machine learning,1
+733,1732,2732,Difference between electric cars and cloud computing?,How does electric cars differ from cloud computing?,0
+734,1733,2733,Difference between Python and vaccination?,How does Python differ from vaccination?,0
+735,1734,2734,What is the future of Python?,How will Python evolve?,0
+736,1735,2735,How do I learn blockchain?,Best way to learn blockchain,1
+737,1736,2736,Difference between Python and blockchain?,How does Python differ from blockchain?,0
+738,1737,2737,What is the purpose of machine learning?,Why do we need machine learning?,0
+739,1738,2738,Drawbacks of electric cars?,Disadvantages of electric cars?,1
+740,1739,2739,Why is Java important?,Significance of Java?,1
+741,1740,2740,What is the future of electric cars?,How will electric cars evolve?,0
+742,1741,2741,Can I trust blockchain?,Is blockchain reliable?,1
+743,1742,2742,How to use AI?,Steps to use AI,0
+744,1743,2743,What is weight loss?,Explain weight loss in simple terms,1
+745,1744,2744,What is the future of Python?,How will Python evolve?,1
+746,1745,2745,Benefits of Java?,What are the advantages of Java?,1
+747,1746,2746,What is the purpose of Python?,Why do we need Python?,0
+748,1747,2747,Can I trust cloud computing?,Is cloud computing reliable?,1
+749,1748,2748,Can I trust blockchain?,Is blockchain reliable?,0
+750,1749,2749,Drawbacks of vaccination?,Disadvantages of vaccination?,0
+751,1750,2750,What is the future of vaccination?,How will vaccination evolve?,1
+752,1751,2751,How do I learn Python?,Best way to learn Python,0
+753,1752,2752,What is the future of blockchain?,How will blockchain evolve?,1
+754,1753,2753,Why is electric cars important?,Significance of electric cars?,0
+755,1754,2754,Drawbacks of vaccination?,Disadvantages of vaccination?,0
+756,1755,2755,What is the future of cloud computing?,How will cloud computing evolve?,0
+757,1756,2756,How to use Java?,Steps to use Java,1
+758,1757,2757,How do I learn Python?,Best way to learn Python,1
+759,1758,2758,Can I trust weight loss?,Is weight loss reliable?,0
+760,1759,2759,Difference between smartphones and AI?,How does smartphones differ from AI?,1
+761,1760,2760,Difference between Java and blockchain?,How does Java differ from blockchain?,1
+762,1761,2761,Why is electric cars important?,Significance of electric cars?,0
+763,1762,2762,Benefits of Java?,What are the advantages of Java?,1
+764,1763,2763,Benefits of Python?,What are the advantages of Python?,1
+765,1764,2764,Can I trust vaccination?,Is vaccination reliable?,1
+766,1765,2765,Can I trust weight loss?,Is weight loss reliable?,1
+767,1766,2766,Why is Python important?,Significance of Python?,1
+768,1767,2767,How do I learn Python?,Best way to learn Python,1
+769,1768,2768,Benefits of Python?,What are the advantages of Python?,0
+770,1769,2769,How do I learn Java?,Best way to learn Java,0
+771,1770,2770,Difference between AI and vaccination?,How does AI differ from vaccination?,1
+772,1771,2771,What is the future of vaccination?,How will vaccination evolve?,0
+773,1772,2772,Why is blockchain important?,Significance of blockchain?,1
+774,1773,2773,Why is blockchain important?,Significance of blockchain?,1
+775,1774,2774,Benefits of Java?,What are the advantages of Java?,1
+776,1775,2775,How do I learn machine learning?,Best way to learn machine learning,1
+777,1776,2776,Can I trust AI?,Is AI reliable?,1
+778,1777,2777,How to use machine learning?,Steps to use machine learning,0
+779,1778,2778,How do I learn weight loss?,Best way to learn weight loss,1
+780,1779,2779,Drawbacks of AI?,Disadvantages of AI?,1
+781,1780,2780,How do I learn cloud computing?,Best way to learn cloud computing,0
+782,1781,2781,How do I learn cloud computing?,Best way to learn cloud computing,1
+783,1782,2782,What is the future of Python?,How will Python evolve?,0
+784,1783,2783,Why is Java important?,Significance of Java?,0
+785,1784,2784,Difference between Java and AI?,How does Java differ from AI?,1
+786,1785,2785,What is weight loss?,Explain weight loss in simple terms,1
+787,1786,2786,Benefits of cloud computing?,What are the advantages of cloud computing?,0
+788,1787,2787,Why is machine learning important?,Significance of machine learning?,1
+789,1788,2788,Difference between Python and cloud computing?,How does Python differ from cloud computing?,1
+790,1789,2789,Drawbacks of vaccination?,Disadvantages of vaccination?,1
+791,1790,2790,Why is smartphones important?,Significance of smartphones?,0
+792,1791,2791,Difference between machine learning and cloud computing?,How does machine learning differ from cloud computing?,0
+793,1792,2792,What is the purpose of vaccination?,Why do we need vaccination?,1
+794,1793,2793,Can I trust cloud computing?,Is cloud computing reliable?,1
+795,1794,2794,Why is cloud computing important?,Significance of cloud computing?,0
+796,1795,2795,Benefits of electric cars?,What are the advantages of electric cars?,1
+797,1796,2796,What is cloud computing?,Explain cloud computing in simple terms,0
+798,1797,2797,What is weight loss?,Explain weight loss in simple terms,0
+799,1798,2798,What is the purpose of Python?,Why do we need Python?,1
+800,1799,2799,Can I trust cloud computing?,Is cloud computing reliable?,0
+801,1800,2800,Can I trust vaccination?,Is vaccination reliable?,1
+802,1801,2801,Drawbacks of weight loss?,Disadvantages of weight loss?,0
+803,1802,2802,How to use cloud computing?,Steps to use cloud computing,0
+804,1803,2803,How to use electric cars?,Steps to use electric cars,1
+805,1804,2804,Drawbacks of Python?,Disadvantages of Python?,1
+806,1805,2805,How to use weight loss?,Steps to use weight loss,0
+807,1806,2806,Difference between Python and smartphones?,How does Python differ from smartphones?,1
+808,1807,2807,Can I trust smartphones?,Is smartphones reliable?,1
+809,1808,2808,How do I learn weight loss?,Best way to learn weight loss,1
+810,1809,2809,What is Python?,Explain Python in simple terms,1
+811,1810,2810,Why is blockchain important?,Significance of blockchain?,1
+812,1811,2811,What is vaccination?,Explain vaccination in simple terms,0
+813,1812,2812,Can I trust weight loss?,Is weight loss reliable?,1
+814,1813,2813,Difference between Java and smartphones?,How does Java differ from smartphones?,1
+815,1814,2814,Drawbacks of electric cars?,Disadvantages of electric cars?,1
+816,1815,2815,How do I learn electric cars?,Best way to learn electric cars,1
+817,1816,2816,Difference between weight loss and Java?,How does weight loss differ from Java?,1
+818,1817,2817,How to use cloud computing?,Steps to use cloud computing,1
+819,1818,2818,Difference between Java and electric cars?,How does Java differ from electric cars?,0
+820,1819,2819,What is the future of Python?,How will Python evolve?,0
+821,1820,2820,How to use AI?,Steps to use AI,1
+822,1821,2821,Can I trust vaccination?,Is vaccination reliable?,0
+823,1822,2822,Drawbacks of smartphones?,Disadvantages of smartphones?,1
+824,1823,2823,What is the purpose of blockchain?,Why do we need blockchain?,1
+825,1824,2824,How do I learn weight loss?,Best way to learn weight loss,1
+826,1825,2825,Can I trust Python?,Is Python reliable?,0
+827,1826,2826,Drawbacks of AI?,Disadvantages of AI?,0
+828,1827,2827,What is the purpose of cloud computing?,Why do we need cloud computing?,1
+829,1828,2828,What is the future of cloud computing?,How will cloud computing evolve?,0
+830,1829,2829,Benefits of Java?,What are the advantages of Java?,1
+831,1830,2830,What is the future of weight loss?,How will weight loss evolve?,1
+832,1831,2831,What is the purpose of electric cars?,Why do we need electric cars?,0
+833,1832,2832,What is the future of smartphones?,How will smartphones evolve?,1
+834,1833,2833,What is blockchain?,Explain blockchain in simple terms,1
+835,1834,2834,How do I learn Java?,Best way to learn Java,0
+836,1835,2835,Drawbacks of vaccination?,Disadvantages of vaccination?,1
+837,1836,2836,How to use cloud computing?,Steps to use cloud computing,1
+838,1837,2837,Can I trust vaccination?,Is vaccination reliable?,1
+839,1838,2838,What is the purpose of smartphones?,Why do we need smartphones?,1
+840,1839,2839,How do I learn smartphones?,Best way to learn smartphones,1
+841,1840,2840,How do I learn blockchain?,Best way to learn blockchain,0
+842,1841,2841,How do I learn blockchain?,Best way to learn blockchain,1
+843,1842,2842,Difference between Python and electric cars?,How does Python differ from electric cars?,1
+844,1843,2843,Why is electric cars important?,Significance of electric cars?,1
+845,1844,2844,What is the purpose of machine learning?,Why do we need machine learning?,1
+846,1845,2845,Benefits of vaccination?,What are the advantages of vaccination?,1
+847,1846,2846,What is smartphones?,Explain smartphones in simple terms,0
+848,1847,2847,Can I trust Java?,Is Java reliable?,1
+849,1848,2848,Benefits of machine learning?,What are the advantages of machine learning?,1
+850,1849,2849,What is the future of AI?,How will AI evolve?,0
+851,1850,2850,How to use Java?,Steps to use Java,1
+852,1851,2851,Why is blockchain important?,Significance of blockchain?,1
+853,1852,2852,Difference between AI and electric cars?,How does AI differ from electric cars?,1
+854,1853,2853,How do I learn AI?,Best way to learn AI,0
+855,1854,2854,Can I trust Python?,Is Python reliable?,1
+856,1855,2855,Why is machine learning important?,Significance of machine learning?,1
+857,1856,2856,Drawbacks of smartphones?,Disadvantages of smartphones?,0
+858,1857,2857,What is the purpose of cloud computing?,Why do we need cloud computing?,0
+859,1858,2858,What is Java?,Explain Java in simple terms,0
+860,1859,2859,Drawbacks of cloud computing?,Disadvantages of cloud computing?,0
+861,1860,2860,What is weight loss?,Explain weight loss in simple terms,1
+862,1861,2861,Difference between smartphones and machine learning?,How does smartphones differ from machine learning?,1
+863,1862,2862,Why is AI important?,Significance of AI?,1
+864,1863,2863,What is the future of cloud computing?,How will cloud computing evolve?,0
+865,1864,2864,What is the future of machine learning?,How will machine learning evolve?,0
+866,1865,2865,How to use Java?,Steps to use Java,1
+867,1866,2866,How do I learn blockchain?,Best way to learn blockchain,0
+868,1867,2867,How to use machine learning?,Steps to use machine learning,1
+869,1868,2868,Difference between machine learning and weight loss?,How does machine learning differ from weight loss?,1
+870,1869,2869,Drawbacks of smartphones?,Disadvantages of smartphones?,0
+871,1870,2870,What is the purpose of electric cars?,Why do we need electric cars?,1
+872,1871,2871,How to use weight loss?,Steps to use weight loss,0
+873,1872,2872,How to use cloud computing?,Steps to use cloud computing,1
+874,1873,2873,Difference between smartphones and cloud computing?,How does smartphones differ from cloud computing?,1
+875,1874,2874,What is the future of blockchain?,How will blockchain evolve?,1
+876,1875,2875,What is machine learning?,Explain machine learning in simple terms,1
+877,1876,2876,How to use AI?,Steps to use AI,1
+878,1877,2877,Benefits of vaccination?,What are the advantages of vaccination?,0
+879,1878,2878,Can I trust weight loss?,Is weight loss reliable?,1
+880,1879,2879,What is vaccination?,Explain vaccination in simple terms,0
+881,1880,2880,How to use Java?,Steps to use Java,1
+882,1881,2881,What is the purpose of Java?,Why do we need Java?,1
+883,1882,2882,Why is AI important?,Significance of AI?,0
+884,1883,2883,What is the purpose of blockchain?,Why do we need blockchain?,0
+885,1884,2884,How do I learn electric cars?,Best way to learn electric cars,0
+886,1885,2885,Drawbacks of machine learning?,Disadvantages of machine learning?,1
+887,1886,2886,What is Python?,Explain Python in simple terms,1
+888,1887,2887,Benefits of electric cars?,What are the advantages of electric cars?,1
+889,1888,2888,How to use AI?,Steps to use AI,0
+890,1889,2889,Why is weight loss important?,Significance of weight loss?,1
+891,1890,2890,What is Python?,Explain Python in simple terms,0
+892,1891,2891,Can I trust Java?,Is Java reliable?,1
+893,1892,2892,What is the future of blockchain?,How will blockchain evolve?,1
+894,1893,2893,Can I trust cloud computing?,Is cloud computing reliable?,1
+895,1894,2894,Drawbacks of electric cars?,Disadvantages of electric cars?,0
+896,1895,2895,Why is Java important?,Significance of Java?,0
+897,1896,2896,What is the purpose of Java?,Why do we need Java?,1
+898,1897,2897,Can I trust vaccination?,Is vaccination reliable?,1
+899,1898,2898,What is Python?,Explain Python in simple terms,0
+900,1899,2899,What is the purpose of AI?,Why do we need AI?,0
+901,1900,2900,Drawbacks of Java?,Disadvantages of Java?,1
+902,1901,2901,Can I trust electric cars?,Is electric cars reliable?,0
+903,1902,2902,Benefits of machine learning?,What are the advantages of machine learning?,1
+904,1903,2903,What is the future of smartphones?,How will smartphones evolve?,0
+905,1904,2904,Benefits of weight loss?,What are the advantages of weight loss?,0
+906,1905,2905,What is smartphones?,Explain smartphones in simple terms,1
+907,1906,2906,How to use Java?,Steps to use Java,1
+908,1907,2907,Drawbacks of vaccination?,Disadvantages of vaccination?,1
+909,1908,2908,What is the future of vaccination?,How will vaccination evolve?,0
+910,1909,2909,Why is Python important?,Significance of Python?,0
+911,1910,2910,What is the future of machine learning?,How will machine learning evolve?,1
+912,1911,2911,How to use Java?,Steps to use Java,0
+913,1912,2912,What is the future of machine learning?,How will machine learning evolve?,0
+914,1913,2913,How to use blockchain?,Steps to use blockchain,1
+915,1914,2914,What is the purpose of Python?,Why do we need Python?,1
+916,1915,2915,Difference between vaccination and smartphones?,How does vaccination differ from smartphones?,1
+917,1916,2916,What is the purpose of cloud computing?,Why do we need cloud computing?,1
+918,1917,2917,How to use machine learning?,Steps to use machine learning,0
+919,1918,2918,Drawbacks of vaccination?,Disadvantages of vaccination?,1
+920,1919,2919,Why is blockchain important?,Significance of blockchain?,1
+921,1920,2920,Drawbacks of Java?,Disadvantages of Java?,1
+922,1921,2921,What is Python?,Explain Python in simple terms,1
+923,1922,2922,What is blockchain?,Explain blockchain in simple terms,1
+924,1923,2923,Drawbacks of Python?,Disadvantages of Python?,1
+925,1924,2924,Drawbacks of blockchain?,Disadvantages of blockchain?,1
+926,1925,2925,How do I learn weight loss?,Best way to learn weight loss,0
+927,1926,2926,What is the future of Java?,How will Java evolve?,0
+928,1927,2927,Why is weight loss important?,Significance of weight loss?,1
+929,1928,2928,How do I learn electric cars?,Best way to learn electric cars,1
+930,1929,2929,Drawbacks of weight loss?,Disadvantages of weight loss?,1
+931,1930,2930,Benefits of smartphones?,What are the advantages of smartphones?,1
+932,1931,2931,How to use blockchain?,Steps to use blockchain,0
+933,1932,2932,How do I learn vaccination?,Best way to learn vaccination,1
+934,1933,2933,Difference between weight loss and electric cars?,How does weight loss differ from electric cars?,1
+935,1934,2934,What is the future of Python?,How will Python evolve?,0
+936,1935,2935,What is the purpose of electric cars?,Why do we need electric cars?,1
+937,1936,2936,Can I trust Python?,Is Python reliable?,1
+938,1937,2937,Drawbacks of smartphones?,Disadvantages of smartphones?,1
+939,1938,2938,How do I learn weight loss?,Best way to learn weight loss,1
+940,1939,2939,Can I trust blockchain?,Is blockchain reliable?,1
+941,1940,2940,Why is cloud computing important?,Significance of cloud computing?,1
+942,1941,2941,What is the purpose of Java?,Why do we need Java?,1
+943,1942,2942,Why is Python important?,Significance of Python?,0
+944,1943,2943,Drawbacks of weight loss?,Disadvantages of weight loss?,0
+945,1944,2944,Benefits of vaccination?,What are the advantages of vaccination?,1
+946,1945,2945,What is the future of weight loss?,How will weight loss evolve?,0
+947,1946,2946,What is the purpose of cloud computing?,Why do we need cloud computing?,1
+948,1947,2947,What is cloud computing?,Explain cloud computing in simple terms,1
+949,1948,2948,What is machine learning?,Explain machine learning in simple terms,0
+950,1949,2949,What is the purpose of vaccination?,Why do we need vaccination?,0
+951,1950,2950,What is the future of Python?,How will Python evolve?,1
+952,1951,2951,Can I trust cloud computing?,Is cloud computing reliable?,1
+953,1952,2952,Drawbacks of smartphones?,Disadvantages of smartphones?,0
+954,1953,2953,Benefits of vaccination?,What are the advantages of vaccination?,1
+955,1954,2954,What is the purpose of Python?,Why do we need Python?,0
+956,1955,2955,What is machine learning?,Explain machine learning in simple terms,1
+957,1956,2956,What is vaccination?,Explain vaccination in simple terms,0
+958,1957,2957,How do I learn cloud computing?,Best way to learn cloud computing,1
+959,1958,2958,Difference between blockchain and smartphones?,How does blockchain differ from smartphones?,1
+960,1959,2959,Difference between Python and weight loss?,How does Python differ from weight loss?,1
+961,1960,2960,How do I learn blockchain?,Best way to learn blockchain,0
+962,1961,2961,Why is machine learning important?,Significance of machine learning?,1
+963,1962,2962,Why is Java important?,Significance of Java?,0
+964,1963,2963,What is the purpose of weight loss?,Why do we need weight loss?,1
+965,1964,2964,How to use weight loss?,Steps to use weight loss,1
+966,1965,2965,What is the future of Python?,How will Python evolve?,1
+967,1966,2966,Difference between Python and smartphones?,How does Python differ from smartphones?,1
+968,1967,2967,What is weight loss?,Explain weight loss in simple terms,1
+969,1968,2968,What is the future of electric cars?,How will electric cars evolve?,1
+970,1969,2969,How do I learn Java?,Best way to learn Java,0
+971,1970,2970,What is the purpose of machine learning?,Why do we need machine learning?,1
+972,1971,2971,Drawbacks of Python?,Disadvantages of Python?,1
+973,1972,2972,Can I trust weight loss?,Is weight loss reliable?,0
+974,1973,2973,How to use AI?,Steps to use AI,1
+975,1974,2974,Difference between blockchain and AI?,How does blockchain differ from AI?,1
+976,1975,2975,What is the purpose of weight loss?,Why do we need weight loss?,0
+977,1976,2976,What is the purpose of blockchain?,Why do we need blockchain?,1
+978,1977,2977,Why is cloud computing important?,Significance of cloud computing?,0
+979,1978,2978,How do I learn smartphones?,Best way to learn smartphones,1
+980,1979,2979,Difference between machine learning and Python?,How does machine learning differ from Python?,1
+981,1980,2980,Can I trust Python?,Is Python reliable?,0
+982,1981,2981,How do I learn Python?,Best way to learn Python,1
+983,1982,2982,Why is AI important?,Significance of AI?,0
+984,1983,2983,Benefits of machine learning?,What are the advantages of machine learning?,0
+985,1984,2984,What is the purpose of AI?,Why do we need AI?,1
+986,1985,2985,Drawbacks of cloud computing?,Disadvantages of cloud computing?,0
+987,1986,2986,Can I trust cloud computing?,Is cloud computing reliable?,1
+988,1987,2987,What is the purpose of electric cars?,Why do we need electric cars?,0
+989,1988,2988,How do I learn vaccination?,Best way to learn vaccination,0
+990,1989,2989,What is the purpose of Java?,Why do we need Java?,0
+991,1990,2990,What is the future of weight loss?,How will weight loss evolve?,1
+992,1991,2991,Difference between machine learning and vaccination?,How does machine learning differ from vaccination?,0
+993,1992,2992,Can I trust machine learning?,Is machine learning reliable?,1
+994,1993,2993,Benefits of smartphones?,What are the advantages of smartphones?,1
+995,1994,2994,Why is weight loss important?,Significance of weight loss?,0
+996,1995,2995,Why is Python important?,Significance of Python?,1
+997,1996,2996,What is cloud computing?,Explain cloud computing in simple terms,0
+998,1997,2997,How do I learn vaccination?,Best way to learn vaccination,1
+999,1998,2998,What is vaccination?,Explain vaccination in simple terms,1
+1000,1999,2999,What is vaccination?,Explain vaccination in simple terms,0

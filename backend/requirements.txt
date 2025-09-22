@@ -1,0 +1,16 @@
+flask
+flask-cors
+werkzeug
+pymupdf
+python-docx
+numpy
+joblib
+sentence-transformers
+scikit-learn
+torch
+transformers
+pandas
+regex
+nltk
+spacy
+gunicorn

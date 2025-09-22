@@ -1,0 +1,91 @@
+truthtrace ai
+introduction:
+in today’s fast-paced digital landscape, content is being created and distributed at unprecedented speed and scale. with the growth of academic institutions, online publishing, and ai-driven content generators, concerns around content originality and authenticity have intensified. academic dishonesty, inadvertent reuse of content, and uncredited use of others’ work have made plagiarism detection not just a compliance tool but a necessity across industries.
+the proliferation of ai-generated text further complicates the problem. advanced language models like gpt-2, gpt-3, and gpt-4 are capable of producing fluent, human-like content that is virtually indistinguishable from human writing. this makes traditional plagiarism checkers, which often rely on basic keyword or phrase matching, largely ineffective against paraphrased or reworded ai-generated content.
+this project addresses these challenges by introducing a comprehensive, ai-powered plagiarism detection system. it integrates modern machine learning techniques such as transformers, sentence embeddings, and svm-based classification to detect semantic similarities, ai-authored content, and corpus-level duplication. the system is implemented as a full-stack application, comprising a responsive react frontend and a python flask backend, and is entirely self-contained for local deployment and privacy.
+related concepts and methods:
+this project is built on several foundational concepts from natural language processing and applied machine learning:
+sentence embeddings: rather than looking at individual words, this approach encodes entire sentences into dense vector representations that capture semantic meaning. we use the all-mpnet-base-v2 transformer model to generate 768-dimensional embeddings for each input document.
+transformer models: transformers, such as bert and mpnet, are deep learning models known for their effectiveness in nlp tasks. they rely on attention mechanisms to consider the context of each word in a sentence, which is vital for understanding semantic similarity and meaning.
+cosine similarity: this is a vector-based similarity metric that computes the cosine of the angle between two vectors. it’s used in our system to measure the similarity between sentence embeddings.
+tf-idf and support vector machines (svm): for ai content detection, the system uses tf-idf to numerically represent documents based on word frequency and uniqueness, followed by an svm classifier trained to distinguish between human-written and ai-generated text.
+corpus embedding matching: instead of comparing documents only to each other, this method involves creating a persistent set of reference documents (the corpus), which incoming documents can be compared against to detect duplicate or derivative work.
+together, these techniques form a cohesive and reliable framework for tackling both surface-level and deep content similarity.
+methodology and experimental setup:
+this system is composed of three primary subsystems: document-to-document comparison, document-to-corpus similarity detection, and ai authorship classification. here’s how each was built and tested:
+data collection:
+for ai detection, we created a dataset of 1,000 samples split evenly between human-written articles and ai-generated text using gpt-2. for similarity detection, a static local corpus of text files was created using a mixture of articles, essays, and documentation. these files represent the “known universe” against which new documents are evaluated.
+data preprocessing:
+human and ai text samples were normalized using standard nlp preprocessing techniques—lowercasing, punctuation removal, tokenization, and transformation to tf-idf vectors. for embedding-based similarity, texts were cleaned and embedded directly using the sentencetransformer library.
+model training and architecture:
+the ai classifier was built using a linear svm trained on tf-idf vectors. hyperparameter tuning was performed using gridsearchcv, and the model was calibrated with scikit-learn’s calibratedclassifiercv to obtain probabilistic outputs.
+document similarity is calculated using cosine similarity between vectorized embeddings. the all-mpnet-base-v2 model generates fixed-length vectors for any document or sentence pair.
+corpus embeddings are stored in a pickle file and loaded during runtime. each time a new document is checked, it is compared to all documents in the corpus. if its similarity to any existing document is below a certain threshold, it is considered original and added to the corpus.
+evaluation criteria and results:
+ai detection evaluation:
+we evaluated the svm model on standard classification metrics:
+accuracy: 92%
+precision: 91%
+recall: 89%
+f1 score: 90%
+auc-roc score: 0.96
+these metrics show that the svm model performs reliably in distinguishing ai-generated text from human-authored documents. the high auc indicates excellent performance across various thresholds, which is important when different users might demand different levels of sensitivity.
+plagiarism detection evaluation:
+since there’s no labeled dataset for plagiarism at the sentence level, we tested the model with 20 hand-selected document pairs. the similarity scores were consistent with human judgments:
+near-identical documents scored between 0.90–1.00
+reworded but similar content scored between 0.65–0.85
+dissimilar documents scored below 0.50
+overall, the embedding-based comparison provided a more nuanced and context-aware analysis compared to lexical matching, making it suitable for real-world plagiarism detection.
+deployment and integration:
+backend:
+the backend is implemented in python using flask, which exposes rest api endpoints for all core functionality. these include:
+/check – for document-to-document comparison
+/check-corpus – for checking against the existing corpus
+/detect-ai – for ai-generated content detection
+all models are serialized using joblib or pickle and loaded into memory at startup to minimize latency.
+frontend:
+the frontend is built in react and styled using tailwind css. it includes:
+file upload components for different checks
+a dynamic donut chart to visualize similarity or ai scores
+a clean and professional layout with navigation and loading states
+the frontend and backend communicate over rest. environment variables are used to set the base api url, ensuring easy deployment to different environments.
+user guide:
+to run the system locally:
+backend:
+cd backend
+python -m venv
+venv\scripts\activate (windows)
+pip install -r requirements.txt
+python app.py
+frontend:
+cd frontend
+npm install
+npm run dev
+supported file formats:
+.txt
+.pdf
+.docx
+functionalities:
+two-document comparison
+smart check against a growing corpus
+ai detection with confidence scores
+real-time donut chart visualization
+challenges and limitations:
+challenges:
+extracting text from complex pdfs and docx files was inconsistent.
+embedding size mismatches due to model updates occasionally caused runtime errors.
+large documents slowed down processing without chunking or asynchronous handling.
+limitations:
+the svm model may not generalize well to newer, more nuanced ai models without retraining.
+corpus embeddings are not dynamically updated during batch uploads.
+the system is currently single-user and lacks authentication or concurrency control.
+future considerations:
+there are several areas where the system can be improved:
+implement document chunking to handle longer documents more effectively
+add a user authentication layer with session management
+introduce document versioning and duplicate tracking in the corpus
+export comparison results as pdf reports
+containerize using docker for consistent deployment
+replace the svm with a transformer-based classifier trained on larger, more recent ai-generated datasets
+conclusion:
+this project presents a practical and technically sound solution to a growing problem. by combining modern nlp models with classical machine learning techniques and delivering them through a full-stack web application, we’ve built a plagiarism detection system that is robust, extensible, and user-friendly. it stands as a strong foundation for institutions and individuals who require a trustworthy and offline tool for verifying content originality and authorship.

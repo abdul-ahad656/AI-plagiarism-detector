@@ -1,0 +1,42 @@
+Lab Manual for Software Construction and Development -SESD3241
+SCD LAB Booklet
+
+
+
+
+
+
+
+
+
+
+
+
+Faculty of Information Technology
+UCP Lahore Pakistan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Question:1 You are building a real-time stock market monitoring dashboard. Stocks push updates (stock symbol, latest price), and the display panels (broker terminals, mobile stock apps) must update themselves automatically whenever stock prices change.
+You have to perform the following tasks:
+Identify the correct design pattern to keep all displays updated when stock prices change.
+Implement the stock class and at least two types of displays in Java.
+
+Question:2 You're designing a software system for a vehicle rental agency that rents out different types of vehicles (e.g., Car, Bike, Truck). To decouple the object creation logic from the main application flow and ensure only one instance of the rental system is used throughout the application, you decide to use the Factory and Singleton patterns.
+You have to perform the following tasks:
+
+Use the Factory Pattern to implement a VehicleFactory that creates different types of Vehicle objects based on user input.
+Implement a Singleton Pattern for the RentalSystem class to ensure only one rental processing system instance is used.
+Question:3 Think and design a scenario from real life to implement decorator pattern on it.
+

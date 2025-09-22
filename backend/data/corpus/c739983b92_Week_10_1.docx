@@ -1,0 +1,95 @@
+what is react native?
+(difference between react.js & react native)
+
+what is react native?
+react native is a cross-platform mobile development framework that lets you build native mobile apps (android & ios) using react and javascript.
+key features:
+cross-platform: one codebase works on both android and ios.
+native performance: it uses native components, not web views, so apps feel fast and smooth.
+live & hot reloading: instantly see code changes without restarting the app.
+large community: lots of third-party packages and libraries available.
+how it works:
+you write code in javascript using react syntax.
+react native converts it to native code under the hood using bridge architecture.
+basic example:
+import react from 'react';
+import { text, view } from 'react-native';
+
+export default function app() {
+  return (
+    <view>
+      <text>hello, this is a react native app!</text>
+    </view>
+  );
+}
+
+difference between react.js and react native
+
+summary 
+
+example comparison
+react.js (web)
+<div>
+  <h1>hello web</h1>
+</div>
+react native (mobile)
+<view>
+  <text>hello mobile</text>
+</view>
+
+use cases:
+react.js: websites, dashboards, admin panels.
+react native: mobile apps like instagram, facebook, skype, ubereats.
+
+expo cli vs react native cli (setting up expo cli)
+
+https://docs.expo.dev/get-started/create-a-project/
+when starting with react native, you have two main options to set up your development environment:
+expo cli
+react native cli
+both are used to build mobile apps using react native, but they work differently.
+
+part 1: expo cli vs react native cli
+
+
+summary 
+
+part 2: setting up expo cli
+let’s now learn how to set up expo cli on your computer.
+prerequisites:
+node.js installed 
+npm 
+terminal or command prompt
+
+ step-by-step setup
+step 1: install expo cli
+create an empty folder and open it in vs code.
+open terminal or cmd and run:
+npx create-expo-app@latest
+
+provide the app name and wait for the installation to complete.
+
+step 3: navigate into project
+cd myfirstapp
+
+step 4: start the app
+npx expo start
+this will open a new tab in your browser with a qr code using the app like expo go.
+
+step 5: run app on mobile 
+install expo go app from play store/app store.
+scan the qr code shown in the browser.
+your app will run on your real mobile device!
+
+run on emulator
+if you have an emulator or simulator set up:
+npm run android
+npm run ios
+
+project file structure
+css
+copyedit
+myfirstapp/
+├── app.js        ← main app component
+├── node_modules/
+├── package.json
